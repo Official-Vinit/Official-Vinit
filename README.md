@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on App Development projects
 - 💬 Ask me about App Development, Android Studio, Jetpack Compose, Kotlin, Java, C, Python 
 - 📫 How to reach me :
-<br /> [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vinit-gupta-kumar/)
+<br />[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vinit-gupta-kumar/)
 - 😄 Pronouns: He/Him
 ### I code in 
 <img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/> <img width="48" height="48" src="https://img.icons8.com/?size=100&id=ZoxjA0jZDdFZ&format=png&color=000000" alt="Kotlin"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />
