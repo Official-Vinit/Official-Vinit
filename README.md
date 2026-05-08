@@ -28,142 +28,126 @@
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vinit-gupta-kumar/)
 [<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/Official-Vinit)
-[<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />](https://leetcode.com/)
-[<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" />](https://www.hackerrank.com/)
+[<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />](https://leetcode.com/u/Vinit_Gupta7/)
+[<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" />](https://www.hackerrank.com/profile/23IT066_KPRIET)
 
 ---
 
-## I Code In
+## Skills, Tools & Technologies
 
-<p>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/python.png" alt="Python"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/c-programming.png" alt="C"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="C++"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/kotlin.png" alt="Kotlin"/>
-</p>
+<table>
+  <tr>
+    <td><strong>Programming Languages</strong></td>
+    <td>
+      <img width="42" height="42" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java"/>
+      <img width="42" height="42" src="https://img.icons8.com/color/48/python.png" alt="Python"/>
+      <img width="42" height="42" src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript"/>
+      <img width="42" height="42" src="https://img.icons8.com/color/48/c-programming.png" alt="C"/>
+      <img width="42" height="42" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="C++"/>
+      <img width="42" height="42" src="https://img.icons8.com/color/48/kotlin.png" alt="Kotlin"/>
+    </td>
+  </tr>
 
----
+  <tr>
+    <td><strong>Frontend Development</strong></td>
+    <td>
+      <img width="42" height="42" src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML"/>
+      <img width="42" height="42" src="https://img.icons8.com/color/48/css3.png" alt="CSS"/>
+      <img width="42" height="42" src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript"/>
+      <img width="42" height="42" src="https://img.icons8.com/color/48/react-native.png" alt="React"/>
+      <img width="42" height="42" src="https://img.icons8.com/color/48/redux.png" alt="Redux"/>
+      <img width="42" height="42" src="https://img.icons8.com/color/48/tailwind_css.png" alt="Tailwind CSS"/>
+      <img width="42" height="42" src="https://img.icons8.com/color/48/angularjs.png" alt="Angular"/>
+    </td>
+  </tr>
 
-## Frontend Development
+  <tr>
+    <td><strong>Backend Development</strong></td>
+    <td>
+      <img width="42" height="42" src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js"/>
+      <img width="42" height="42" src="https://img.icons8.com/fluency/48/express-js.png" alt="Express.js"/>
+      <img width="42" height="42" src="https://img.icons8.com/color/48/python.png" alt="Python"/>
+      <img width="42" height="42" src="https://img.icons8.com/fluency/48/flask.png" alt="Flask"/>
+      <img width="42" height="42" src="https://img.icons8.com/color/48/api-settings.png" alt="REST API"/>
+      <img width="42" height="42" src="https://img.icons8.com/color/48/socket-io.png" alt="Socket.IO"/>
+    </td>
+  </tr>
 
-<p>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="CSS"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/react-native.png" alt="React"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/redux.png" alt="Redux"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/tailwind_css.png" alt="Tailwind CSS"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/angularjs.png" alt="Angular"/>
-</p>
+  <tr>
+    <td><strong>Databases</strong></td>
+    <td>
+      <img width="42" height="42" src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB"/>
+      <img width="42" height="42" src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL"/>
+      <img width="42" height="42" src="https://img.icons8.com/color/48/room.png" alt="Room DB"/>
+      <img src="https://img.shields.io/badge/ChromaDB-Vector%20Database-green?style=for-the-badge" alt="ChromaDB"/>
+      <img src="https://img.shields.io/badge/MongoDB%20Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Atlas"/>
+    </td>
+  </tr>
 
----
+  <tr>
+    <td><strong>Machine Learning & GenAI</strong></td>
+    <td>
+      <img width="42" height="42" src="https://img.icons8.com/color/48/numpy.png" alt="NumPy"/>
+      <img width="42" height="42" src="https://img.icons8.com/color/48/pandas.png" alt="Pandas"/>
+      <img width="42" height="42" src="https://img.icons8.com/color/48/pytorch.png" alt="PyTorch"/>
+      <img width="42" height="42" src="https://img.icons8.com/color/48/artificial-intelligence.png" alt="Machine Learning"/>
+      <img width="42" height="42" src="https://img.icons8.com/color/48/chatgpt.png" alt="OpenAI"/>
+      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"/>
+      <img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-blue?style=for-the-badge" alt="RAG"/>
+      <img src="https://img.shields.io/badge/LLMs-Generative%20AI-purple?style=for-the-badge" alt="LLMs"/>
+      <img src="https://img.shields.io/badge/Transformers-HuggingFace-yellow?style=for-the-badge" alt="Transformers"/>
+      <img src="https://img.shields.io/badge/Groq-API-orange?style=for-the-badge" alt="Groq"/>
+    </td>
+  </tr>
 
-## Backend Development
+  <tr>
+    <td><strong>DevOps, Cloud & Deployment</strong></td>
+    <td>
+      <img width="42" height="42" src="https://img.icons8.com/color/48/docker.png" alt="Docker"/>
+      <img width="42" height="42" src="https://img.icons8.com/color/48/amazon-web-services.png" alt="AWS"/>
+      <img width="42" height="42" src="https://img.icons8.com/color/48/vercel.png" alt="Vercel"/>
+      <img width="42" height="42" src="https://img.icons8.com/color/48/git.png" alt="Git"/>
+      <img width="42" height="42" src="https://img.icons8.com/glyph-neue/64/github.png" alt="GitHub"/>
+      <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render"/>
+      <img src="https://img.shields.io/badge/AWS%20IAM-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS IAM"/>
+      <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" alt="AWS EC2"/>
+      <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="AWS S3"/>
+      <img src="https://img.shields.io/badge/AWS%20Amplify-FF9900?style=for-the-badge&logo=awsamplify&logoColor=white" alt="AWS Amplify"/>
+    </td>
+  </tr>
 
-<p>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js"/>
-  <img width="48" height="48" src="https://img.icons8.com/fluency/48/express-js.png" alt="Express.js"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/python.png" alt="Python"/>
-  <img width="48" height="48" src="https://img.icons8.com/fluency/48/flask.png" alt="Flask"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/api-settings.png" alt="REST API"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/socket-io.png" alt="Socket.IO"/>
-</p>
+  <tr>
+    <td><strong>Android Development</strong></td>
+    <td>
+      <img width="42" height="42" src="https://img.icons8.com/color/48/android-studio--v2.png" alt="Android Studio"/>
+      <img width="42" height="42" src="https://img.icons8.com/color/48/kotlin.png" alt="Kotlin"/>
+      <img width="42" height="42" src="https://img.icons8.com/color/48/android-os.png" alt="Android"/>
+      <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose"/>
+      <img src="https://img.shields.io/badge/Retrofit-48B983?style=for-the-badge" alt="Retrofit"/>
+      <img src="https://img.shields.io/badge/RoomDB-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="RoomDB"/>
+    </td>
+  </tr>
 
----
-
-## Databases
-
-<p>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/room.png" alt="Room DB"/>
-</p>
-
----
-
-## Machine Learning & GenAI
-
-<p>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/numpy.png" alt="NumPy"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/pandas.png" alt="Pandas"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/pytorch.png" alt="PyTorch"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/artificial-intelligence.png" alt="Machine Learning"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/chatgpt.png" alt="OpenAI"/>
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LLMs-Generative%20AI-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Transformers-HuggingFace-yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Groq-API-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ChromaDB-Vector%20Database-green?style=for-the-badge" />
-</p>
-
----
-
-## DevOps, Cloud & Deployment
-
-<p>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/docker.png" alt="Docker"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/amazon-web-services.png" alt="AWS"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/vercel.png" alt="Vercel"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="Git"/>
-  <img width="48" height="48" src="https://img.icons8.com/glyph-neue/64/github.png" alt="GitHub"/>
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
-  <img src="https://img.shields.io/badge/AWS%20IAM-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS%20Amplify-FF9900?style=for-the-badge&logo=awsamplify&logoColor=white" />
-</p>
-
----
-
-## Android Development
-
-<p>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/android-studio--v2.png" alt="Android Studio"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/kotlin.png" alt="Kotlin"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/android-os.png" alt="Android"/>
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" />
-  <img src="https://img.shields.io/badge/Retrofit-48B983?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RoomDB-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-</p>
-
----
-
-## IDEs & Tools I Use
-
-<p>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/android-studio--v2.png" alt="Android Studio"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code"/>
-  <img width="48" height="48" src="https://img.icons8.com/plasticine/100/intellij-idea.png" alt="IntelliJ IDEA"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/pycharm.png" alt="PyCharm"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="Git"/>
-  <img width="48" height="48" src="https://img.icons8.com/glyph-neue/64/github.png" alt="GitHub"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/postgreesql.png" alt="Database Tools"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/docker.png" alt="Docker"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/amazon-web-services.png" alt="AWS"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/vercel.png" alt="Vercel"/>
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
-  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" />
-</p>
-
+  <tr>
+    <td><strong>IDEs & Tools</strong></td>
+    <td>
+      <img width="42" height="42" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code"/>
+      <img width="42" height="42" src="https://img.icons8.com/plasticine/100/intellij-idea.png" alt="IntelliJ IDEA"/>
+      <img width="42" height="42" src="https://img.icons8.com/color/48/pycharm.png" alt="PyCharm"/>
+      <img width="42" height="42" src="https://img.icons8.com/color/48/android-studio--v2.png" alt="Android Studio"/>
+      <img width="42" height="42" src="https://img.icons8.com/color/48/git.png" alt="Git"/>
+      <img width="42" height="42" src="https://img.icons8.com/glyph-neue/64/github.png" alt="GitHub"/>
+      <img width="42" height="42" src="https://img.icons8.com/color/48/docker.png" alt="Docker"/>
+      <img width="42" height="42" src="https://img.icons8.com/color/48/amazon-web-services.png" alt="AWS"/>
+      <img width="42" height="42" src="https://img.icons8.com/color/48/vercel.png" alt="Vercel"/>
+      <img width="42" height="42" src="https://img.icons8.com/color/48/postman-api.png" alt="Postman"/>
+      <img width="42" height="42" src="https://img.icons8.com/color/48/jupyter.png" alt="Jupyter"/>
+      <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" alt="Google Colab"/>
+      <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary"/>
+    </td>
+  </tr>
+</table>
 ---
 
 ## Featured Projects
