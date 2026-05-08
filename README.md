@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Vinit Kumar Gupta</h1>
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-<h3 align="center">I am fullstack Web and Android App Developer</h3>
+<h3 align="center">I am fullstack software developer with experience in Machine Learning and GenAI</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Official-Vinit&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
 -  Student at KPR Institute of Engineering and Technology
-- 📱 I'm Fullstack Web and Android App Developer                                           
-- 👯 I’m looking to collaborate on Web or App Development projects or both
-- 💬 Ask me about App Development, Web develpment, Android Studio, Jetpack Compose, Kotlin, MERN stack, Java, C, Python 
+- 📱 I'm Fullstack Software Developer
+- 🤖 Gaining experience in machine learning and GenAI                                       
+- 👯 I’m looking to collaborate on Software Development projects or AI related projects.
+- 💬 Ask me about Software develpment, MERN stack, Machine Learning, GenAI, Native Android Development.
 - 📫 How to reach me :
 <br />[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vinit-gupta-kumar/)
 - 😄 Pronouns: He/Him
